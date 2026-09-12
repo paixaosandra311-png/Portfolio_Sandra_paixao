@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    font-family: "Comforter", cursive;
+    color:rgb(237, 226, 226);
+    text-align: center;
+    font-weight: 1;
+}
+
+p {
+    color: white;
+    text-align: left;
+}
+
+img {
+    display: block;
+    margin: auto;
+    animation: exemple 2s infinite ease-in-out;
+}
+
+@keyframes exemple {
+    50% {
+        transform: translateY(-10%);
+    }
+}
+
+a {
+   color: white;
+
+}
+

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+
+
+body {
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-family: "Comforter", cursive;
+    font-weight: 1;
+}
+
+p {
+    color: white;
+    text-align: justify;
+}
+
+h2 {
+    font-family: "Comforter", cursive;
+    font-weight: 1;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
